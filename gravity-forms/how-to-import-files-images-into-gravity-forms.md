@@ -1,6 +1,7 @@
 # How to import files or images into Gravity Forms
 
-In this article, we'll walk you through the steps to import images into Gravity Forms. Your CSV file must contain the image URLs for the images you want to import.
+In this article, we'll walk you through the steps to import images into Gravity Forms. Your CSV file must contain the URLs for the files or images you want to import.
+
 1. In Gravity Forms, go to **Import/Export**.
 
     ![gravity-forms-import](/images/gravity-forms-import-1.png)

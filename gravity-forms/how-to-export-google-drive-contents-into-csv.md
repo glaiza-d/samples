@@ -1,6 +1,6 @@
 # How to export Google Drive contents into CSV
 
-In this article, we'll show you how to get a list of URLs from your Google Drive folders.
+In this article, we'll walk you through the steps to get a list of URLs from your Google Drive folders.
 
 ## Step 1: Create a Google Sheet
 
